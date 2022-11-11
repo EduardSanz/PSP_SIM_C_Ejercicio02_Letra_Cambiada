@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ejercicio02_Letra_Cambiada:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ejercicio02_Letra_Cambiada_jar</output-path>
+    <root id="archive" name="Ejercicio02_Letra_Cambiada.jar">
+      <element id="module-output" name="Ejercicio02_Letra_Cambiada" />
+    </root>
+  </artifact>
+</component>
